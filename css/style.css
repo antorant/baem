@@ -32,6 +32,7 @@ img {
   background-position: center;
   background-size: 100%;
   display: flex;
+  flex-wrap: wrap;
   height: 100vh;
   justify-content: center;
   padding: var(--grid-unit);
