@@ -11,8 +11,6 @@
   --c-white: #ffffff;
 
   --grid-unit: 1rem; /* 16px */
-
-  --col: calc(100vw / 12);
 }
 
 * {
@@ -36,11 +34,4 @@ img {
   height: 100vh;
   justify-content: center;
   padding: var(--grid-unit);
-}
-
-
-
-
-.slide--movement-in-space {
-  background-color: var(--c-mid-grey);
 }
